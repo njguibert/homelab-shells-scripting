@@ -9,7 +9,7 @@ Todos los shells scripts utilizados en homelab.jesusguibert.com
 # Indice
 1. [Batch.](#id1)
 2. [Powershell.](#id2)
-3. [BashPruebas de Conceptos.](#id3)
+3. [Bash.](#id3)
 
 <div id='id1' />
 
